@@ -41,3 +41,6 @@ JavaScript Event Listeners detect player actions and control the game logic.
 Audio Effects enhance feedback for player actions.
 
 Randomized Sequences ensure a new experience each time.
+
+# Link:
+https://fati-810.github.io/Simon-Game/
