@@ -1,7 +1,7 @@
 # Simon Game
 The Simon Game is an **interactive memory-based game** where players must repeat an increasingly long sequence of colors and sounds. It is a digital version of the classic Simon Says game, designed to **test** and **improve memory skills**.
 
-# Features:
+## Features:
 
 🎨 Colorful Buttons: Four buttons light up in a random sequence.
 
@@ -13,7 +13,7 @@ The Simon Game is an **interactive memory-based game** where players must repeat
 
 🔄  Game Over & Restart Feature: If a player makes a mistake, the game resets.
 
-# How To Play Game:
+## How To Play Game:
 
 1. Start the Game
    
@@ -33,7 +33,7 @@ The game becomes progressively harder as the sequence grows longer.
 
 If you make a mistake, the game ends and can be restarted.
 
-# Technical Overview: (Behind the Scenes)
+## Technical Overview: (Behind the Scenes)
 Built with HTML, CSS, and JavaScript for structure, styling, and interactivity.
 
 JavaScript Event Listeners detect player actions and control the game logic.
@@ -42,5 +42,15 @@ Audio Effects enhance feedback for player actions.
 
 Randomized Sequences ensure a new experience each time.
 
-# Link:
+## Link:
 https://fati-810.github.io/Simon-Game/
+
+## Contact:
+If you'd like to see more of my work, connect with me through my portfolio:
+
+Developer: Fatimah Ali
+Website: fatimahdigitaledge.com
+GitHub: github.com/fati-810
+
+## License:
+This project is for educational and portfolio purposes.
