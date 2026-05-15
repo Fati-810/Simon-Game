@@ -42,7 +42,7 @@ Audio Effects enhance feedback for player actions.
 
 Randomized Sequences ensure a new experience each time.
 
-## Link:
+## Preview:
 https://fati-810.github.io/Simon-Game/
 
 ## Contact:
